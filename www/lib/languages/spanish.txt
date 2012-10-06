@@ -1,0 +1,25 @@
+--- 29/09/2012 ---
+nada
+all_rights_reserved
+powered_by
+error_message
+error_code
+error_file
+error_line
+execute
+hola_esta_es_la_agenda
+name_is_required
+email_is_not_a_valid_email
+contact_has_been_inserted_correctly
+prueba_en_agenda_hola_adios_welcome
+_welcome
+--- 30/09/2012 ---
+error_message
+all_rights_reserved
+powered_by
+--- 01/10/2012 ---
+all_rights_reserved
+powered_by
+--- 06/10/2012 ---
+all_rights_reserved
+powered_by

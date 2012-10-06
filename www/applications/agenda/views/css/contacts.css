@@ -1,0 +1,19 @@
+.contact {
+  background-color: #eee;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.contact a {
+  color: red;
+}
+
+.contact a:hover {
+  color: blue;
+  opacity: 0.3;
+}
+
+.contact a:visited {
+  color: blue;
+  opacity: 0.3;
+}
